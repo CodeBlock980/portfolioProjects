@@ -2,7 +2,7 @@ def add(a, b):
     return a + b
 
 def subtract(a, b): 
-    return "Change"
+    return a -b
 
-print("Hello World!")
-
+add(12 + 3)
+subtract(10-8)
